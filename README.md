@@ -11,9 +11,7 @@ Vite: Uma ferramenta de build de frontend que oferece uma experiência de desenv
 
 HTML5: A linguagem de marcação padrão para criar páginas web.
 
-CSS3: Uma linguagem de folha de estilo usada para descrever a apresentação de um documento escrito em HTML.
-
-[Outras bibliotecas/frameworks do frontend (se houver), por exemplo: "Tailwind CSS", "React Router Dom", "Axios"]
+Tailwind CSS: Um framework CSS utilitário para a prototipagem rápida e desenvolvimento de UI.
 
 Backend
 Node.js: Um ambiente de tempo de execução JavaScript que permite executar código JavaScript no lado do servidor.
