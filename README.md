@@ -20,3 +20,5 @@ Express.js: Um framework web minimalista e flexível para Node.js que oferece um
 
 Banco de Dados
 Foi utilizado MySQL em conjunto com XAMPP
+
+![Banner do Projeto](./Imagens/front-end-CLIENTES.png)
