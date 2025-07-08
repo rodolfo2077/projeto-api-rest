@@ -22,3 +22,6 @@ Banco de Dados
 Foi utilizado MySQL em conjunto com XAMPP
 
 ![Banner do Projeto](./Imagens/front-end-CLIENTES.png)
+![Banner do Projeto](./Imagens/front-end-PRODUTOS.png)
+![Banner do Projeto](./Imagens/front-end-VENDAS.png)
+![Banner do Projeto](./Imagens/api-rodando.png)
